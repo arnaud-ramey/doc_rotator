@@ -2,6 +2,8 @@
                   |      doc_rotator     |
                   +----------------------+
 
+[![Build Status](https://travis-ci.org/arnaud-ramey/doc_rotator.svg)](https://travis-ci.org/arnaud-ramey/doc_rotator)
+
 A simple tool for rectifying tilted scanned images.
 
 License :                  see the LICENSE file.
